@@ -1,0 +1,20 @@
+{
+    "name": "UMI_ROBOT",
+    "version": "1.0.2",
+    "description": "Extension for ABC Maker V2",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "UMI_REMOTE": "github:umi-academy/ir",
+        "UMI_RGB": "github:umi-academy/neo"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/mbit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
